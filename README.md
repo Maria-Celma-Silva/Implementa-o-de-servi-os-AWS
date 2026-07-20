@@ -1,5 +1,7 @@
 # SERVIÇOS DA AWS
 RELATÁRIO DE IMPLEMENTAMENTAÇÃO DE SERVIÇOS AWS
+
+
 Data: 18-07-2026
 Empresa: Abstergo Industries 
 Responsável: Celma Silva 
