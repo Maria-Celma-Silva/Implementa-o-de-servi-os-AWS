@@ -1,5 +1,5 @@
 # SERVIÇOS DA AWS
-RELATÁRIO DE IMPLEMENTAMENTAÇÃO DE SERVIÇOS AWS
+RELATÁRIO DE IMPLEMENTATAÇÃO DE SERVIÇOS AWS
 
 
 Data: 18-07-2026
@@ -35,6 +35,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 Apresentação Base: "Armazenamento e Bancos de Dados”.pdf
+
  
 Assinatura do Responsável pelo Projeto:
 Celma Silva 
