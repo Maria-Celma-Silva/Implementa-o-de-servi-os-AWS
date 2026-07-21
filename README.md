@@ -12,15 +12,18 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
+
 Etapa 1: 
 -  Nome da ferramenta: Amazon S3 (focado na classe S3 Intelligent-Tiering) 
 - Foco da ferramenta: Armazenamento de objetos em nuvem e gerenciamento automático do ciclo de vida de arquivos. 
 - Descrição de caso de uso: Armazenamento de dados não estruturados, como data lakes, mídias e backups. O uso específico do S3 Intelligent-Tiering otimiza custos automaticamente para dados com padrões de acesso desconhecidos ou em alteração, movendo os arquivos menos acessados para camadas mais baratas, cobrando apenas uma pequena taxa de monitoramento
-- 
+
+  
 Etapa 2:
 - Nome da ferramenta: Amazon Aurora (através do Amazon RDS) 
 - Foco da ferramenta: Banco de dados relacional gerenciado, de alta performance e baixo custo (opção Serverless). 
 Descrição de caso de uso: Substituição de licenças caras de bancos de dados comerciais que suportam os sistemas transacionais da empresa. O Amazon Aurora entrega mecanismos compatíveis com PostgreSQL e MySQL custando o equivalente a 1/10 do preço de outros vendors do mercado, reduzindo drasticamente os gastos com licenciamento e manutenção de hardware.
+
 
 Etapa 3:
 Nome da ferramenta: Amazon DynamoDB 
