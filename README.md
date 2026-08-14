@@ -41,6 +41,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 Apresentação Base: "Armazenamento e Bancos de Dados”.pdf
 links:[RELATÁRIO DE IMPLEMENTAMENTAÇÃO DE SERVIÇOS AWS.docx](https://github.com/user-attachments/files/31048849/RELATARIO.DE.IMPLEMENTAMENTACAO.DE.SERVICOS.AWS.docx)
     
+<img width="1095" height="650" alt="Captura de tela 2026-08-13 211822" src="https://github.com/user-attachments/assets/0e64788f-92ce-4d25-9537-3fe0d03dd193" />
 
 Assinatura do Responsável pelo Projeto:
 Celma Silva 
