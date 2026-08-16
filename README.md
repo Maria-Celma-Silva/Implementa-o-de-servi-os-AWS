@@ -5,7 +5,8 @@ Data: 18-07-2026
 Empresa: Abstergo Industries 
 Responsável: Celma Silva 
 
-<img width="1508" height="1060" alt="Serviços da AWS (3)" src="https://github.com/user-attachments/assets/0b12fc9e-9641-46b6-882c-bcb8d0549db2" />
+<img width="1508" height="1060" alt="Serviços da AWS (3)" src="https://github.com/user-attachments/assets/48c14582-1ae7-42e3-b1e5-7b59d7ef5114" />
+
 
 
 ## Introdução
