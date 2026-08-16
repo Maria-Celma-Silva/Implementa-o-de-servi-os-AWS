@@ -9,7 +9,6 @@ Responsável: Celma Silva
 <img width="1636" height="1204" alt="Serviços da AWS" src="https://github.com/user-attachments/assets/dcfea4ce-317b-47f7-b592-4b411d588c65" />
 
 
-
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Celma Silva. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
