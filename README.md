@@ -20,7 +20,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 ### Etapa 1: 
 -  Nome da ferramenta: Amazon S3 (focado na classe S3 Intelligent-Tiering) 
 - Foco da ferramenta: Armazenamento de objetos em nuvem e gerenciamento automático do ciclo de vida de arquivos. 
-- Descrição de caso de uso: Armazenamento de dados não estruturados, como data lakes, mídias e backups. O uso específico do S3 Intelligent-Tiering otimiza custos automaticamente para dados com padrões de acesso desconhecidos ou em alteração, movendo os arquivos menos acessados para camadas mais baratas, cobrando apenas uma pequena taxa de monitoramento
+- Descrição de caso de uso: Armazenamento de dados não estruturados, como data lakes, mídias e backups. O uso específico do S3 Intelligent-Tiering otimiza custos automaticamente para dados com padrões de acesso desconhecidos ou em alteração, movendo os arquivos menos acessados para camadas mais baratas, cobrando apenas uma pequena taxa de monitoramento.
 
   
 ### Etapa 2:
